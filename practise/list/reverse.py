@@ -16,12 +16,13 @@ while count >= i:
 print("Your reversed list is ", reverse_list)
 
 ##########################################################
+new_rev_list = a_list[::-1]
+print("Easiest way to rev a list", new_rev_list)
+
+#########################################################
+
 print("\nThe same function using just a reverse method")
 
 a_list.reverse()
 
 print("Your reversed list is ", a_list)
-
-
-
-

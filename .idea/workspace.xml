@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17509c9-264a-4e93-9b92-08fc5194030a" name="Changes" comment="new_code">
+      <change afterPath="$PROJECT_DIR$/practise/list/common_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/list/divisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/list/list_comprehensions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/list/palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/list/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise/list/reverse.py" afterDir="false" />
     </list>
@@ -51,20 +55,20 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lists">
-    <configuration name="List_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.palindrome">
+    <configuration name="common_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\Python\python.exe" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practise/list" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise/list/List_1.py" />
+      <option name="SCRIPT_NAME" value="E:\DevOps\git\practise\list\common_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,19 +77,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="f_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="divisors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matthes/data_types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practise/list" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matthes/data_types/f_strings.py" />
+      <option name="SCRIPT_NAME" value="E:\DevOps\git\practise\list\divisors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,40 +98,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="E:\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/install" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/install/helloworld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matthes/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practise/list" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matthes/lists/lists.py" />
+      <option name="SCRIPT_NAME" value="E:\DevOps\git\practise\list\list_comprehensions" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practise/list" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="E:\DevOps\git\practise\list\palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lists" />
+        <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.reverse" />
-        <item itemvalue="Python.f_strings" />
-        <item itemvalue="Python.List_1" />
-        <item itemvalue="Python.helloworld" />
+        <item itemvalue="Python.common_list" />
+        <item itemvalue="Python.divisors" />
+        <item itemvalue="Python.list_comprehensions" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651386916197</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new_code">
+      <created>1651987623979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651987623979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new_code">
+      <created>1651987685551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651987685551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
