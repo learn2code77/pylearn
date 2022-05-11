@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d17509c9-264a-4e93-9b92-08fc5194030a" name="Changes" comment="new_code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/list/List_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise/list/List_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/list/common_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise/list/common_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/list/divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise/list/divisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/list/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise/list/palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +50,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selective_list">
-    <configuration name="common_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practise/list" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="E:\DevOps\git\practise\list\common_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fibonacci">
     <configuration name="divisors (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,6 +64,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise/list/divisors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../Python/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practise/list" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise/list/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.palindrome (1)" />
         <item itemvalue="Python.divisors (1)" />
         <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.reverse" />
-        <item itemvalue="Python.common_list" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652013008939</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new_code">
+      <created>1652203422588</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652203422588</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new_code">
+      <created>1652203446732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652203446732</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
